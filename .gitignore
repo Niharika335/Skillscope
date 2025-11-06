@@ -1,0 +1,19 @@
+# Ignore build files
+target/
+build/
+out/
+
+# Ignore IDE files
+.classpath
+.project
+.settings/
+
+# Ignore OS and temp files
+.DS_Store
+*.log
+
+# Ignore Tomcat deployment files
+/.metadata/
+/Servers/
+/wtpwebapps/
+
